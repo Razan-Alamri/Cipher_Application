@@ -78,9 +78,9 @@ To understand the practical application of cryptography through building an encr
 
 ## 📁 Files Included
 
-- `Cipher.java` – Main logic for encryption and decryption
+- `Cipher_Application_Code/` – Source code including the main logic for encryption and decryption  
+- `CipherApp.exe` – Executable file for running the Cipher Application without compiling  
 - `Cipher_Application_Report.pdf` – Full project report with flowchart, pseudocode, and screenshots
-- `.jj`, `.jjt` – JavaCC grammar files used in the project (if applicable)
 
 ---
 
