@@ -97,5 +97,4 @@ To understand the practical application of cryptography through building an encr
 
 This project provided a practical insight into basic cryptographic techniques. It serves as a great starting point for anyone interested in cybersecurity or secure software development.
 
-> Feel free to contribute or suggest enhancements!
-```
+> Feel free to contribute or suggest enhancements
